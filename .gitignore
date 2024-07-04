@@ -1,0 +1,30 @@
+# ignore all video formats
+*.avi
+*.mp4
+*.mkv
+*.flv
+*.mov
+*.wmv
+*.mpeg
+*.mpg
+*.3gp
+*.3g2
+*.m4v
+*.webm
+*.ogv
+*.ogg
+*.png
+*.jpg
+
+# all files in the DBs directory
+*/DBs/*
+# ignore pdfs
+*.pdf
+*.ppt
+#ignore compressed files
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.sql
